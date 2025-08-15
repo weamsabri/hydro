@@ -1,0 +1,24 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin: 0 0 0.5rem 0;
+}
+
+label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+}
+
+input[type="range"] {
+  vertical-align: middle;
+}
+
+button {
+  padding: 8px 12px;
+}
